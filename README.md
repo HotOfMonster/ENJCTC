@@ -1,6 +1,6 @@
 # ENJCTC
 
-> Endnote Library for [Journal of Chemical Theory and Computation](http://pubs.acs.org/journal/jctcce)
+> Endnote Library for [Journal of Chemical Theory and Computation](http://pubs.acs.org/journal/jctcce)   
 > Maybe update per year..
 
 ## Features:
